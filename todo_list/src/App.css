@@ -14,3 +14,6 @@ li span{
 h1{
   font-size: medium;
 }
+.btn{
+  border: 1px solid rgba(70, 69, 69, 0.3);
+}
